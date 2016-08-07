@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MICHINOEKI/!svn/ver/301/MichiNoEki/Common/Route/Library
+END
+RouteObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/RouteObject.m
+END
+GoogleDirectionsXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/GoogleDirectionsXMLParser.h
+END
+GTMNSString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/GTMNSString+HTML.h
+END
+NSString+Extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/NSString+Extension.h
+END
+StepObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/StepObject.h
+END
+GoogleDirectionsXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/GoogleDirectionsXMLParser.m
+END
+GTMNSString+HTML.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/GTMNSString+HTML.m
+END
+NSString+Extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/NSString+Extension.m
+END
+RouteObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/RouteObject.h
+END
+StepObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MICHINOEKI/!svn/ver/201/MichiNoEki/Common/Route/Library/StepObject.m
+END

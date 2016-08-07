@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MICHINOEKI/!svn/ver/352/MichiNoEki/Common/StationData
+END
+StationData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/333/MichiNoEki/Common/StationData/StationData.h
+END
+HolidayDay.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MICHINOEKI/!svn/ver/169/MichiNoEki/Common/StationData/HolidayDay.m
+END
+ShopHour.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MICHINOEKI/!svn/ver/169/MichiNoEki/Common/StationData/ShopHour.m
+END
+StationDataListWithoutDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MICHINOEKI/!svn/ver/333/MichiNoEki/Common/StationData/StationDataListWithoutDetail.h
+END
+StationData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/352/MichiNoEki/Common/StationData/StationData.m
+END
+HolidayWeekday.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MICHINOEKI/!svn/ver/169/MichiNoEki/Common/StationData/HolidayWeekday.h
+END
+StationDataListWithoutDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MICHINOEKI/!svn/ver/333/MichiNoEki/Common/StationData/StationDataListWithoutDetail.m
+END
+HolidayDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MICHINOEKI/!svn/ver/297/MichiNoEki/Common/StationData/HolidayDay.h
+END
+ShopHour.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MICHINOEKI/!svn/ver/175/MichiNoEki/Common/StationData/ShopHour.h
+END
+HolidayWeekday.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MICHINOEKI/!svn/ver/169/MichiNoEki/Common/StationData/HolidayWeekday.m
+END

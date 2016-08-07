@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/MICHINOEKI/!svn/ver/353/MichiNoEki/Common
+END
+UnderlinedButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MICHINOEKI/!svn/ver/330/MichiNoEki/Common/UnderlinedButton.m
+END
+Categories.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MICHINOEKI/!svn/ver/184/MichiNoEki/Common/Categories.m
+END
+Downloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MICHINOEKI/!svn/ver/196/MichiNoEki/Common/Downloader.h
+END
+ConfigurationData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MICHINOEKI/!svn/ver/351/MichiNoEki/Common/ConfigurationData.h
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MICHINOEKI/!svn/ver/344/MichiNoEki/Common/Utility.h
+END
+LocationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MICHINOEKI/!svn/ver/176/MichiNoEki/Common/LocationManager.h
+END
+Downloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MICHINOEKI/!svn/ver/196/MichiNoEki/Common/Downloader.m
+END
+ConfigurationData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MICHINOEKI/!svn/ver/351/MichiNoEki/Common/ConfigurationData.m
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MICHINOEKI/!svn/ver/351/MichiNoEki/Common/MainWindow.xib
+END
+Indicator.xib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MICHINOEKI/!svn/ver/318/MichiNoEki/Common/Indicator.xib
+END
+Utility.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MICHINOEKI/!svn/ver/344/MichiNoEki/Common/Utility.m
+END
+LocationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MICHINOEKI/!svn/ver/326/MichiNoEki/Common/LocationManager.m
+END
+MichiNoEkiAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MICHINOEKI/!svn/ver/29/MichiNoEki/Common/MichiNoEkiAppDelegate.h
+END
+MenuTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/301/MichiNoEki/Common/MenuTableViewController.h
+END
+IndicatorViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/318/MichiNoEki/Common/IndicatorViewController.h
+END
+IndexedTapGestureRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MICHINOEKI/!svn/ver/282/MichiNoEki/Common/IndexedTapGestureRecognizer.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MICHINOEKI/!svn/ver/351/MichiNoEki/Common/Constants.h
+END
+IndicatorViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/318/MichiNoEki/Common/IndicatorViewController.m
+END
+MenuTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MICHINOEKI/!svn/ver/301/MichiNoEki/Common/MenuTableViewController.m
+END
+MichiNoEkiAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MICHINOEKI/!svn/ver/277/MichiNoEki/Common/MichiNoEkiAppDelegate.m
+END
+IndexedTapGestureRecognizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MICHINOEKI/!svn/ver/282/MichiNoEki/Common/IndexedTapGestureRecognizer.m
+END
+FBNetworkReachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MICHINOEKI/!svn/ver/42/MichiNoEki/Common/FBNetworkReachability.h
+END
+Categories.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MICHINOEKI/!svn/ver/141/MichiNoEki/Common/Categories.h
+END
+UnderlinedButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MICHINOEKI/!svn/ver/330/MichiNoEki/Common/UnderlinedButton.h
+END
+FBNetworkReachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MICHINOEKI/!svn/ver/42/MichiNoEki/Common/FBNetworkReachability.m
+END
